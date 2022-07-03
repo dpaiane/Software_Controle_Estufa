@@ -1,9 +1,9 @@
 #########################################################################################
-########								                                    #############
-########    Projeto plantario - Diego paiani cardoso			            #############
-########    Faculdade de engenharia de computacao - FTEC		            #############
-########    Versao: 1.122						                            #############
-########								                                    #############
+########								    #############
+########    Projeto plantario - Diego paiani cardoso			    #############
+########    Faculdade de engenharia de computacao - FTEC		    #############
+########    Versao: 1.122						    #############
+########								    #############
 #########################################################################################
 
 #encoding: utf-8
@@ -134,7 +134,7 @@ class myApp(object):
         data_hora = data_texto.strftime("%d/%m/%Y %H:%M\n")			                        
         self.text1.insert(tk.END, data_hora)
         self.text1.insert(tk.END, "\nLendo os sensores...\n")
-        self.text1.insert(tk.END, "\nProcessando os dados...\n")				                              											# imprimi na tela					
+        self.text1.insert(tk.END, "\nProcessando os dados...\n")				                              															
 		
     def intervalo(self):
         self.text1.delete("1.0", "end")
