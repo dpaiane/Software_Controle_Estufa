@@ -1,2 +1,0 @@
-|Dia: 1 |Ciclo: 10 |Umidade_do_ar: 95.00 %|Temperatura: 23 *C|umidade_solo_1: 258 |umidade_solo_2: 492
-21/04/2021 08:27
